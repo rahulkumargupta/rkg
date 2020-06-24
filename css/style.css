@@ -21,6 +21,16 @@
   padding: 8px;  
 }
 
+.marginbottom{
+  margin-bottom: 20px !important;
+  margin-top: 0px !important;
+  margin-left: 0px !important;
+  margin-right: 0px !important;
+}
+.nomargin{
+  margin: 0px !important;
+}
+
 body {
   font-family: "Quicksand", Arial, sans-serif;
   font-weight: 400;
